@@ -1,7 +1,7 @@
 # This program adds two numbers
 #hi i am akash
 
-num1 = 1.5
+num1 = 1.8
 num2 = 6.3
 
 # Add two numbers
